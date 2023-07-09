@@ -6,9 +6,9 @@
 3. Profile
 
 ### Application Screenshots
-
-![Uploading Screenshot_20230709-124530[1].jpg…]()
-
+![Screenshot_20230709-124530](https://github.com/KaushalSalvatore/Fininfocom-Task/assets/50286592/d0f294f9-3978-42d2-a85a-d3115f8098e2)
+![Screenshot_20230709-124548](https://github.com/KaushalSalvatore/Fininfocom-Task/assets/50286592/541fcdcf-d03f-499d-9db6-fe84f72f4b9a)
+![Screenshot_20230709-124540](https://github.com/KaushalSalvatore/Fininfocom-Task/assets/50286592/61f44b2d-dc68-426f-b1b3-060c5ed4bef1)
 
 #### Random dog images Screen
 
