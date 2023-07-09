@@ -1,21 +1,50 @@
-<<<<<<< HEAD
-# fininfocom
+### fininfocom company  machine test
 
-fin Infocom machine test
+#### Screen with 3 buttons
+1. Random dog images
+2. Enable Bluetooth
+3. Profile
 
-## Getting Started
+### Application Screenshots
 
-This project is a starting point for a Flutter application.
+![Uploading Screenshot_20230709-124530[1].jpg…]()
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### Random dog images Screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Fininfocom-Task
-Fin Infocom Flutter Task for Native Android / IOS 
->>>>>>> 739a408ba90937bb212a5dc3a6487215fdbd644f
+API: https://dog.ceo/api/breeds/image/random
+
+The above gives random image link for the dogs, using the api please load the image and display it
+Add a refresh button, below the image
+When the Refresh button is clicked please call the api again and load the image.
+
+Display the image with refresh button on top
+When button clicked , load the image from api
+
+#### Enable Bluetooth
+Enable Bluetooth using Native Method channel(do not use any third party flutter package)
+
+Native Android
+Invoke methods from Flutter to native android and call the required function to proceed
+Here write enabling bluetooth functionality in native android code, invoke from flutter code , so that this native enabling bluetooth method should run
+
+Note: Please request any required permission in native code itself
+
+Native IOS
+Invoke methods from Flutter to native android and call the required function to proceed
+Here write enabling bluetooth functionality in native android code, invoke from flutter code , so that this native enabling bluetooth method should run
+For IOS please display dialog for procedure to enable bluetooth with text in dialog
+
+Note :Please add dialog code  in native , request any required permission in native code itself
+
+#### Profile Screen
+   API: https://randomuser.me/api/
+   This api gives a random user details
+
+Display
+- Name
+- location
+- email
+- dob
+- Number of days passed since registered
+- Image
